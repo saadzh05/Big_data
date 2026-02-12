@@ -1,0 +1,24 @@
+# Core
+kafka-python==2.0.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+
+# Web & API
+flask==2.3.3
+flask-socketio==5.3.4
+schedule==1.2.0
+
+# Hadoop Ecosystem
+hdfs==2.7.3
+pyarrow==12.0.1
+thrift==0.16.0
+
+# Utilities
+python-dotenv==1.0.0
+pytz==2023.3
+loguru==0.7.2
+
+# Dev
+black==23.7.0
+pylint==2.17.5
